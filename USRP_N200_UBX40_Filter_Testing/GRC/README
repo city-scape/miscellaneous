@@ -2,4 +2,4 @@ Codes used for the aliasing experiment.
 tx sink: HackRF + 30dB attenuator.
 rx source: USRP N2x0 under test.
 
-*FFTShift.py and vector_slice.py are under GPL v3.0.
+*All Python files in this folder are under GPL v3.0.
